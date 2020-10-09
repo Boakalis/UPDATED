@@ -15,15 +15,12 @@
     display: inline;
     padding-left: 60%;
     position: absolute;
-    margin-bottom: 10px;body{
+    margin-bottom: 10px;
+}
+body{
     background-color: #83a7c5;
     
     }
-    body{
-    background-color: #83a7c5;
-    
-    }
-
 h1{
     text-align: center;
     
@@ -32,6 +29,7 @@ h1{
 .head{
     margin-top: 40px;
     font-family: 'Frijole', cursive;
+    font-size: 90px;
 }
 h4{
     text-align: center;
