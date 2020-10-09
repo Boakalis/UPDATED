@@ -1,0 +1,121 @@
+.boa{
+    background-color: white;
+    height: 90px;
+    border-radius: 100%;
+    margin-left: 90px;
+    margin-top: 18px;
+    display: inline;
+}
+.boa1
+{
+    height: 130px;
+    border-radius: 100%;
+    margin-left: 90px;
+    margin-top: 12px;
+    display: inline;
+    padding-left: 880px;
+    position: absolute;
+    margin-bottom: 10px;
+}
+body{
+    background-color: #83a7c5;
+    
+    }
+h1{
+    text-align: center;
+    
+    color: maroon;
+}
+.head{
+    margin-top: 40px;
+    font-family: 'Frijole', cursive;
+}
+h4{
+    text-align: center;
+    font-family: 'Black Ops One', cursive;
+    color: maroon;
+}
+
+
+span{
+   font-style: normal;
+   text-decoration-style: dashed;
+}
+
+.planet
+{
+    position: absolute;
+    align-content: center;
+    right: 190px;
+    text-align: center;
+    font-style: oblique;
+    height: 250px;
+    width: 900px;
+    margin-left: 43%;
+    margin-top: 70px;
+
+}
+.HELLO
+{
+    font-family: 'Frijole', cursive;
+    text-align: center;
+    font-size: 40px;
+    color: darkgoldenrod;
+}
+.rule
+{
+    height: 0px;
+    width: 1000px;
+    border-color: darkred;
+    border-top-style: dashed;
+    border-bottom-width: 0px;
+    border-top-width: 10px;
+}
+.vana{
+    height: 170px;
+    padding-left: 600px;
+    padding-top: 10px;
+    position: relative;
+}
+.eat
+{
+    height: 170px;
+    padding-left: 650px;
+    padding-top: 10px;
+    position: relative;
+}
+h2{
+    text-align: center;
+    font-family: 'Black Ops One', cursive;
+    color: maroon;   
+}
+.list
+{
+    padding-top: 20px;
+    margin-left: 550px;
+    font-family: 'Black Ops One', cursive;
+    color: maroon;  
+}
+.HELLO1
+{
+    font-family: 'Frijole', cursive;
+    text-align: center;
+    font-size: 40px;
+    color: darkgreen;
+}
+.simple
+{
+    font-family: 'Frijole', cursive;
+    text-align: center;
+    font-size: 40px;
+}
+.footer
+{
+    text-align: center;
+    font size: 30px:
+}
+.footer:hover
+{
+    font-family: 'Black Ops One', cursive;
+    color: maroon;      
+}
